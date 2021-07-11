@@ -1,0 +1,1 @@
+<p class="text-center">Fakiehi Fruit Copright copy</p>
